@@ -10,6 +10,7 @@
         android:id="@+id/tblMain"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#FFFFFF"
         android:stretchColumns="*"
         tools:ignore="UselessParent">
 
@@ -49,6 +50,7 @@
                 android:layout_span="3"
                 android:autofillHints=""
                 android:ems="10"
+                android:gravity="center|center_horizontal|center_vertical"
                 android:inputType="number"
                 tools:ignore="LabelFor" />
         </TableRow>
@@ -70,6 +72,7 @@
                 android:layout_span="3"
                 android:autofillHints=""
                 android:ems="10"
+                android:gravity="center|center_horizontal|center_vertical"
                 android:inputType="number"
                 tools:ignore="LabelFor" />
         </TableRow>
@@ -116,7 +119,7 @@
         <TableRow
             android:id="@+id/tblRowKQ"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" >
+            android:layout_height="match_parent">
 
             <TextView
                 android:id="@+id/lblKQ"

@@ -8,5 +8,5 @@
     <string name="nhan">x</string>
     <string name="chia">:</string>
     <string name="kq">\"Kết quả \"</string>
-    <string name="kql">Kết quả là: </string>
+    <string name="kql">"Kết quả là: "</string>
 </resources>
