@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab_5</string>
+    <string name="CTNC">Cộng trừ nhân chia"</string>
+    <string name="s_a">Số a:</string>
+    <string name="s_b">Số b:</string>
+    <string name="cong">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">x</string>
+    <string name="chia">:</string>
+    <string name="kq">\"Kết quả \"</string>
+    <string name="kql">Kết quả là: </string>
+</resources>
