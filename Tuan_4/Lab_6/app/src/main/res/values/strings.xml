@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_6</string>
+    <string name="sothich">Sở thích của bạn là gì?</string>
+    <string name="xbd">Xem bóng đá</string>
+    <string name="xp">Xem phim</string>
+    <string name="nn">Nghe Nhạc</string>
+    <string name="cg">Chơi Game</string>
+    <string name="vote">VOTE</string>
+</resources>

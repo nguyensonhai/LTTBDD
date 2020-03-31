@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/sothich" />
+
+    <RadioGroup
+        android:id="@+id/radGr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RadioButton
+            android:id="@+id/radXemBongDa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/xbd" />
+
+        <RadioButton
+            android:id="@+id/radXemPhim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/xp" />
+
+        <RadioButton
+            android:id="@+id/radNgheNhac"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nn" />
+
+        <RadioButton
+            android:id="@+id/radChoiGame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cg" />
+
+        <Button
+            android:id="@+id/btnVote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/vote" />
+    </RadioGroup>
+</LinearLayout>
