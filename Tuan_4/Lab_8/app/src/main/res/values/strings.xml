@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_8</string>
+    <string name="go_google">Go Google</string>
+    <string name="send_email">Send Email</string>
+</resources>
