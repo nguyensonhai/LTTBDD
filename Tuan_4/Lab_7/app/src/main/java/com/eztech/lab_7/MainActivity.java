@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void doOpenChildActivity()
     {
-        Intent myIntent=new Intent(this, ChildActivity.class);
+        Intent myIntent = new Intent(this, ChildActivity.class);
         startActivity(myIntent);
     }
     public boolean onCreateOptionsMenu(Menu menu) {
