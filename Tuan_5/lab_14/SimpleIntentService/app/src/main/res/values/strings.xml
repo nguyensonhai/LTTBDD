@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleIntentService</string>
+    <string name="start">Start</string>
+    <string name="percel">Percel</string>
+    <string name="stop">Stop</string>
+</resources>

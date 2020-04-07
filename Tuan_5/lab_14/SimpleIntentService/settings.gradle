@@ -1,0 +1,2 @@
+rootProject.name='SimpleIntentService'
+include ':app'
