@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherService</string>
+    <string name="location">Location</string>
+    <string name="weather">Weather</string>
+    <string name="how_is_the_weather_today">How is the Weather today?</string>
+    <string name="hanoi">Hanoi</string>
+</resources>
